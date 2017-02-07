@@ -18,7 +18,7 @@
 package com.zuhaibahmad.activeandroidrobolectrictutorial.database;
 
 import com.activeandroid.query.Select;
-import com.zuhaibahmad.activeandroidrobolectrictutorial.Item;
+import com.zuhaibahmad.activeandroidrobolectrictutorial.models.Item;
 
 import static android.text.TextUtils.isEmpty;
 

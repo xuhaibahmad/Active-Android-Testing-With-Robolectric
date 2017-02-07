@@ -1,4 +1,4 @@
-package com.zuhaibahmad.activeandroidrobolectrictutorial;
+package com.zuhaibahmad.activeandroidrobolectrictutorial.views;
 
 import android.os.Bundle;
 import android.support.design.widget.Snackbar;
@@ -8,7 +8,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout;
 
+import com.zuhaibahmad.activeandroidrobolectrictutorial.R;
 import com.zuhaibahmad.activeandroidrobolectrictutorial.database.DatabaseUtils;
+import com.zuhaibahmad.activeandroidrobolectrictutorial.models.Item;
 
 import static android.text.TextUtils.isEmpty;
 

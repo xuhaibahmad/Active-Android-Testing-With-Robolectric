@@ -1,4 +1,4 @@
-package com.zuhaibahmad.activeandroidrobolectrictutorial;
+package com.zuhaibahmad.activeandroidrobolectrictutorial.models;
 
 import com.activeandroid.Model;
 import com.activeandroid.annotation.Column;

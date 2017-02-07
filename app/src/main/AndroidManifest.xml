@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".views.MainActivity"
             android:label="Save/Retrieve Contact">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -32,6 +32,6 @@
         android:value="1"/>
     <meta-data
         android:name="AA_MODELS"
-        android:value="com.zuhaibahmad.activeandroidrobolectrictutorial.Item"/>
+        android:value="com.zuhaibahmad.activeandroidrobolectrictutorial.models.Item"/>
 
 </manifest>

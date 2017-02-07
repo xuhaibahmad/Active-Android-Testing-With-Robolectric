@@ -2,6 +2,7 @@ package com.zuhaibahmad.activeandroidrobolectrictutorial;
 
 import com.activeandroid.ActiveAndroid;
 import com.activeandroid.Configuration;
+import com.zuhaibahmad.activeandroidrobolectrictutorial.models.Item;
 
 /**
  * Created by Zuhaib on 1/22/2016.
